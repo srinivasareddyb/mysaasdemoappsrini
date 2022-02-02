@@ -1,0 +1,14 @@
+{
+  "generator-saphanaacademy-saas": {
+    "projectName": "mysaasdemoappsrini",
+    "newDir": true,
+    "displayName": "mydemoappsrini",
+    "description": "My Demo Application Srini",
+    "category": "DPE",
+    "SaaSAPI": false,
+    "HANA": false,
+    "customDomain": "",
+    "routes": true,
+    "destination": true
+  }
+}
